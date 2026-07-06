@@ -6,8 +6,6 @@
     <h2>💫 About Me:</h2>
 </div>
 
-👯 I’m looking to collaborate on: Projects focused on Infrastructure as Code (IaC), developing custom Kubernetes operators, or migrating legacy monoliths into scalable microservices architectures.<br><br>🌱 I’m currently learning: Python for backend automation and internal tools that bridge the gap between development and operations.<br><br>🚀 I’m passionate about: Learning by doing and building scalable infrastructure from scratch.<br><br>🛠️ I love working with: Kubernetes, Terraform, Docker, Python, and cloud providers AWS.<br><br>⚡ I enjoy solving: Networking puzzles, debugging "why is the container not starting?", and automating repetitive tasks to save time for more coding.
-
 <div>
     <h2>💻 Tech Stack:</h2>
 </div>
