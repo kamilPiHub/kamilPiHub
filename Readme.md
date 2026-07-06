@@ -1,9 +1,5 @@
 <div align="center">
-    <h1>✨ Hello everyone!</h1>
-</div>
-
-<div>
-    <h2>💫 About Me:</h2>
+    <h1>✨ Hello everyone! 💫</h1>
 </div>
 
 <div>
